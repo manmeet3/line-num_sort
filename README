@@ -1,0 +1,7 @@
+Manmeet Singh	-	msingh11@ucsc.edu
+
+Two small utilities names linesort and numsort that sort file(s)
+specified on command line lexicographically.
+
+If no files are specified, standard input is read.
+
